@@ -1,6 +1,6 @@
 # Hi there, I'm Leo! 👋
 
-🎓 Student @ Texas A&M University (Class of '28)  
+🎓 Computer Science Student @ Texas A&M University (Class of '28)  
 💻 Python • C++ • Web Development  
 🤝 Open to collaboration!  
 📧 Feel free to reach out: lsantos021149@gmail.com  
