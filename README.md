@@ -8,7 +8,7 @@
 
 # Projects 
 
-**Aggie Agenda** ~ _React, Django, Python, JavaScript_
+**Aggie Agenda** ~ _React, Django, Neon, Python, JavaScript_
 
 A full-stack platform that simplifies student life by integrating class schedules, deadlines, and campus resources into a single web app. Features include calendar-based task management, GitHub OAuth login, and real-time syncing.
 
