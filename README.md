@@ -4,5 +4,5 @@
 📧 Feel free to reach out: lsantos021149@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-sssantos/)
 
-- currently teaching AI to take over
+- currently teaching AI how to take over
 
